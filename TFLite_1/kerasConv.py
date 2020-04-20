@@ -10,7 +10,6 @@ import h5py
 from tensorflow.keras.optimizers import SGD
 from tensorflow.keras.layers import Dense, Activation
 from tensorflow.keras.models import load_model
-import numpy as np
 from model import SqueezeNet
 
 
