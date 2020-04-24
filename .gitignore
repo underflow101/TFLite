@@ -13,6 +13,8 @@ dist/
 .png
 .spec
 .tflite
+epoch-50.*
+*.tar
 
 # C extensions
 *.so
