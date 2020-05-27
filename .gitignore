@@ -15,6 +15,7 @@ dist/
 .tflite
 epoch-50.*
 *.tar
+*.tar.gz
 
 # C extensions
 *.so
