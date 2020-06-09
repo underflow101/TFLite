@@ -33,7 +33,7 @@ interpreter.allocate_tensors()
 input_details = interpreter.get_input_details()
 output_details = interpreter.get_output_details()
 
-
+# Video capture
 cap = cv2.VideoCapture(0)
 while cap.isOpened():
 	success, frame = cap.read()
