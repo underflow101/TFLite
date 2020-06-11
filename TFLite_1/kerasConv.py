@@ -15,6 +15,7 @@ from model import SqueezeNet
 
 model = SqueezeNet(input_shape = (224, 224, 3), nb_classes=4)
 model.load_weights('lpl.h5')
+
 model.summary()
 print("Weight loaded complete.")
 
