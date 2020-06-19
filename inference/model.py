@@ -1,7 +1,9 @@
+##################################################
 # SqueezeNet Model Source Code
 # Dev. Dongwon Paek
 
 # SqueezeNet Model Source Code
+##################################################
 
 import tensorflow as tf
 import h5py
