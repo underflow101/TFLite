@@ -1,3 +1,10 @@
+##########################################################################
+# quantization.py
+#
+# Dev. Dongwon Paek
+# Description: Post-training Quantization(Float32) for SqueezeNet
+##########################################################################
+
 import tensorflow as tf
 import h5py
 from tensorflow.keras.optimizers import SGD
