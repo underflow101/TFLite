@@ -1,8 +1,8 @@
 #####################################################################################
-# kerasConv.py
+# tfConv.py
 #
 # Dev. Dongwon Paek
-# Description: Real example of converting tf.keras weight file to .tflite file
+# Description: Real example of converting ckpt file to .tflite file
 #####################################################################################
 
 import tensorflow as tf
